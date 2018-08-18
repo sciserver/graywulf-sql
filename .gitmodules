@@ -1,0 +1,3 @@
+[submodule "modules/graywulf"]
+	path = modules/graywulf
+	url = git@github.com:sciserver/graywulf.git
